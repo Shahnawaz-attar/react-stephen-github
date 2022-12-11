@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "name": "Curtis O'Hara IV",
+      "id": 1
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Electronic Granite Chair",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Cotton Car",
+      "id": 10
+    }
+  ],
+  "photos": []
+}
